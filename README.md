@@ -1,4 +1,4 @@
-# Ecommerce-2020
+# Ecommerce Webapp
  This repository contains the code for a MERN based e-commerce webapp:
  
 ## Prerequisites:
